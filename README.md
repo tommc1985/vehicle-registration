@@ -1,7 +1,7 @@
 vehicle-registration
 ====================
 
-PHP Class that can determine which era, year and location of a Vehicle Registration. Currently it verifies UK Vehicle Registrations, however the plan is to extend it in the future.
+PHP Class that can determine which era, year and location of a Vehicle Registration. Currently it verifies UK Vehicle Registrations, however the plan is to extend it in the future. All data used has been researched from http://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom and http://www.cvpg.co.uk/REG.pdf
 
 Warning: The classes contain an EXTREME number of Regular Expressions, I apologise profusely :)
 
